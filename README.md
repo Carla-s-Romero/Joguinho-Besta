@@ -9,8 +9,6 @@
 
 Um jogo de plataforma dinâmico e desafiador desenvolvido em JavaScript puro, HTML5 e CSS3. Aventure-se em um mundo cheio de plataformas, inimigos e desafios enquanto coleta moedas e power-ups para aumentar sua pontuação.
 
-![Screenshot do Jogo](./assets/screenshot.png)
-
 ## ✨ Funcionalidades
 
 - **Sistema de Vidas**: Três vidas para completar sua jornada
